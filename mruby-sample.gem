@@ -1,0 +1,6 @@
+name: mruby-sample
+description: Sample class
+author: Yohei Kawahara
+website: https://github.com/inokappa/mruby-sample
+protocol: git
+repository: https://github.com/inokappa/mruby-sample.git
